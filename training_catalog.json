@@ -1,0 +1,14 @@
+[
+    {
+        "hazard": "Electrical hazard",
+        "recommendation": "NFPA 70E Awareness Training",
+        "type": "Instructor-led",
+        "duration": "1 day"
+    },
+    {
+        "hazard": "PPE violation",
+        "recommendation": "PPE Usage and Selection",
+        "type": "Online",
+        "duration": "1 hour"
+    }
+]
